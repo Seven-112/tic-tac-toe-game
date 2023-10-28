@@ -21,7 +21,7 @@ Tic-Tac-Toe is one of the most famous games in the world. We have implemented it
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
 3. Copy and paste the following code into the Terminal:
-   `git clone https://github.com/guillainbisimwa/tic-tac-toe-game.git`
+   `git clone https://github.com/myshine112/tic-tac-toe-game.git`
 4. Run `cd tic-tac-toe-game`
 5. Run `ruby bin/main.rb`
 
@@ -58,37 +58,3 @@ Boot up your terminal and punch in gem install rspec to install RSpec. Once that
 
 - cd into the project and open a terminal.
 - In the teminal just write rspec to run the tests.
-
-## Authors
-
-👤 **Guillain Bisimwa**
-
-- Github: [@guillainbisimwa](https://github.com/guillainbisimwa)
-- Twitter: [@gullain_bisimwa](https://twitter.com/gullain_bisimwa)
-- Linkedin: [Guillain bisimwa](https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/)
-
-👤 **Kingsley Ibeh**
-
-- Github: [@githubhandle](https://github.com/Kingobaino1)
-- Twitter: [@twitterhandle](https://twitter.com/ibehkingso)
-- Linkedin: [linkedin](https://www.linkedin.com/in/ibeh-kingsley-obinna-568596177)
-
-👤 **Brian Sammit Cruz Rodriguez**
-
-- Github: [@BrianSammit](https://github.com/BrianSammit)
-- Twitter: [@CruzSammit](https://twitter.com/CruzSammit)
-- Linkedin: [Brian Sammit](https://www.linkedin.com/in/brian-sammit-cruz-rodriguez-5877551a8/)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/guillainbisimwa/tic-tac-toe-game/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
